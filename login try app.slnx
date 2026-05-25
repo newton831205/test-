@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="login try system/login try system.csproj" Id="66b57cb9-22ae-49a1-a730-c34ff9eb4157">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
